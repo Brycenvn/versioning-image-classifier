@@ -1,0 +1,6 @@
+[core]
+    remote = origin
+['remote "local"']
+    url = ../tmp/dvc-storage
+['remote "origin"']
+    url = /Projects/versioning-image-classifier
